@@ -1,3 +1,4 @@
+#import package 
 import pandas as pd 
 diabetes_df = pd.read_csv("diabetes.csv")
 print(diabetes_df.head())
